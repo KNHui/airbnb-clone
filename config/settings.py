@@ -38,7 +38,7 @@ DJANGO_APPS = [
     "django.contrib.staticfiles",
 ]
 
-THIRD_PARTY_APPS = ["django_countries"]
+THIRD_PARTY_APPS = ["django_countries", "cities"]
 
 PROJECT_APPS = [
     "core.apps.CoreConfig",
